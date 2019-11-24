@@ -1,0 +1,6 @@
+00  :  05  ->  Right
+05  :  10  ->  Left
+10  :  15  ->  Right
+15  :  20  ->  Left
+20  :  25  ->  Right
+25  :  30  ->  Left
