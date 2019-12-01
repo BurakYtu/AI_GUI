@@ -80,7 +80,7 @@ namespace Leila_GUI
             if(UserControl_Train_Setup.horizon_plane) pictureBox1.Image = Leila_GUI.ResourceIcons.artificial_horizon;
             else pictureBox1.Image = Leila_GUI.ResourceIcons.airplane;
 
-            serialPort1.PortName = "COM4";
+            serialPort1.PortName = "COM5";
             serialPort1.BaudRate = 9600;
             serialPort1.StopBits = System.IO.Ports.StopBits.One;
             serialPort1.DataBits = 8;
