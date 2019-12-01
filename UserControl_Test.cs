@@ -6,14 +6,14 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
-using System.Net;
-using System.Net.Sockets;
+//using System.Net;
+//using System.Net.Sockets;
 
 namespace Leila_GUI
 {
     public partial class UserControl_Test : UserControl
     {
-        UdpClient Client = new UdpClient(1500); //this device Port number
+        //UdpClient Client = new UdpClient(25000); //this device Port number
 
         string data = "";
             
@@ -32,16 +32,18 @@ namespace Leila_GUI
             //{
             //    richTextBox_udprecieve.Text += ex.Message.ToString();
             //}
-
+            /*
             Socket s = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Udp);
 
-            IPAddress broadcast = IPAddress.Parse("192.168.43.43");
+            IPAddress broadcast = IPAddress.Parse("192.168.214.20");
 
             byte[] sendbuf = Encoding.ASCII.GetBytes(richTextBox_udprecieve.Text);
-            IPEndPoint ep = new IPEndPoint(broadcast, 1600); //slave adress, slave port
+            IPEndPoint ep = new IPEndPoint(broadcast, 25000); //slave adress, slave port
 
             s.SendTo(sendbuf, ep);
+            */
         }
+        /*
         void recv(IAsyncResult res)
         {
             
@@ -60,5 +62,6 @@ namespace Leila_GUI
 
             Client.BeginReceive(new AsyncCallback(recv), null);
         }
+         */
     }
 }

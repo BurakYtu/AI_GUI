@@ -20,3 +20,31 @@ D:\Burak Güzel\Works\C#\Leila_GUI\bin\Debug\Google.Protobuf.xml
 D:\Burak Güzel\Works\C#\Leila_GUI\bin\Debug\MySql.Data.xml
 D:\Burak Güzel\Works\C#\Leila_GUI\bin\Debug\Renci.SshNet.xml
 D:\Burak Güzel\Works\C#\Leila_GUI\obj\Debug\Leila_GUI.csproj.CopyComplete
+C:\Users\0563Sim\Desktop\Leila_GUI\bin\Debug\Leila_GUI.exe.config
+C:\Users\0563Sim\Desktop\Leila_GUI\obj\Debug\Leila_GUI.exe
+C:\Users\0563Sim\Desktop\Leila_GUI\obj\Debug\Leila_GUI.pdb
+C:\Users\0563Sim\Desktop\Leila_GUI\bin\Debug\Leila_GUI.exe
+C:\Users\0563Sim\Desktop\Leila_GUI\bin\Debug\Leila_GUI.pdb
+C:\Users\0563Sim\Desktop\Leila_GUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\0563Sim\Desktop\Leila_GUI\bin\Debug\Google.Protobuf.dll
+C:\Users\0563Sim\Desktop\Leila_GUI\bin\Debug\mscorlib.dll
+C:\Users\0563Sim\Desktop\Leila_GUI\bin\Debug\MySql.Data.dll
+C:\Users\0563Sim\Desktop\Leila_GUI\bin\Debug\Renci.SshNet.dll
+C:\Users\0563Sim\Desktop\Leila_GUI\bin\Debug\Google.Protobuf.xml
+C:\Users\0563Sim\Desktop\Leila_GUI\bin\Debug\MySql.Data.xml
+C:\Users\0563Sim\Desktop\Leila_GUI\bin\Debug\Renci.SshNet.xml
+C:\Users\0563Sim\Desktop\Leila_GUI\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\0563Sim\Desktop\Leila_GUI\bin\Debug\normidna.nlp
+C:\Users\0563Sim\Desktop\Leila_GUI\bin\Debug\normnfc.nlp
+C:\Users\0563Sim\Desktop\Leila_GUI\bin\Debug\normnfd.nlp
+C:\Users\0563Sim\Desktop\Leila_GUI\bin\Debug\normnfkc.nlp
+C:\Users\0563Sim\Desktop\Leila_GUI\bin\Debug\normnfkd.nlp
+C:\Users\0563Sim\Desktop\Leila_GUI\obj\Debug\Leila_GUI.csprojResolveAssemblyReference.cache
+C:\Users\0563Sim\Desktop\Leila_GUI\obj\Debug\Leila_GUI.Form1.resources
+C:\Users\0563Sim\Desktop\Leila_GUI\obj\Debug\Leila_GUI.Properties.Resources.resources
+C:\Users\0563Sim\Desktop\Leila_GUI\obj\Debug\Leila_GUI.ResourceIcons.resources
+C:\Users\0563Sim\Desktop\Leila_GUI\obj\Debug\Leila_GUI.UserControl_Main.resources
+C:\Users\0563Sim\Desktop\Leila_GUI\obj\Debug\Leila_GUI.UserControl_Test.resources
+C:\Users\0563Sim\Desktop\Leila_GUI\obj\Debug\Leila_GUI.UserControl_Train.resources
+C:\Users\0563Sim\Desktop\Leila_GUI\obj\Debug\Leila_GUI.UserControl_Train_Setup.resources
+C:\Users\0563Sim\Desktop\Leila_GUI\obj\Debug\Leila_GUI.csproj.GenerateResource.Cache
