@@ -145,6 +145,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="icon\add - Kopyala.png" />
     <Content Include="icon\add.png" />
     <Content Include="icon\ai.png" />
     <Content Include="icon\airplane.png" />
@@ -153,6 +154,7 @@
     <Content Include="icon\man-with-left-arms-lifted.png" />
     <Content Include="icon\man-with-right-arms-lifted.png" />
     <Content Include="icon\right.png" />
+    <Content Include="icon\subt - Kopyala.png" />
     <Content Include="icon\subt.png" />
     <Content Include="icon\test.png" />
     <Content Include="icon\train.png" />

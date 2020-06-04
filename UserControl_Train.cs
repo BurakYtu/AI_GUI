@@ -44,25 +44,29 @@ namespace Leila_GUI
             if (UserControl_Train_Setup.loop[c] == 1)
             {
                 second = UserControl_Train_Setup.loop[c + 1];
-                pictureBox.Image = Leila_GUI.ResourceIcons.subt;
+                pictureBox.Image = Leila_GUI.ResourceIcons.subt___Kopyala;
+                label1.Text = "Relaxed";
                 timer_hold = second;
             }
             if (UserControl_Train_Setup.loop[c] == 2)
             {
                 second = UserControl_Train_Setup.loop[c + 1];
                 pictureBox.Image = Leila_GUI.ResourceIcons.right;
+                label1.Text = "";
                 timer_hold = second;
             }
             if (UserControl_Train_Setup.loop[c] == 3)
             {
                 second = UserControl_Train_Setup.loop[c + 1];
                 pictureBox.Image = Leila_GUI.ResourceIcons.left;
+                label1.Text = "";
                 timer_hold = second;
             }
             if (UserControl_Train_Setup.loop[c] == 4)
             {
                 second = UserControl_Train_Setup.loop[c + 1];
-                pictureBox.Image = Leila_GUI.ResourceIcons.add;
+                pictureBox.Image = Leila_GUI.ResourceIcons.add___Kopyala;
+                label1.Text = "Focus";
                 timer_hold = second;
             }
 
@@ -77,23 +81,25 @@ namespace Leila_GUI
         private void UserControl_Train_Load(object sender, EventArgs e)
         {
             //Control_Timer.Start();
+            
             if(UserControl_Train_Setup.horizon_plane) pictureBox1.Image = Leila_GUI.ResourceIcons.artificial_horizon;
             else pictureBox1.Image = Leila_GUI.ResourceIcons.airplane;
-
+            /*
             serialPort1.PortName = "COM5";
             serialPort1.BaudRate = 9600;
             serialPort1.StopBits = System.IO.Ports.StopBits.One;
             serialPort1.DataBits = 8;
             serialPort1.Open();
+            */
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
             Control_Timer_Tick(sender, e);
             Control_Timer.Enabled = true;
-            button1.Text = "COM sent";
+            button1.Text = "Started";
             send[0] = 12;
-            serialPort1.Write(send, 0, 1);
+            //serialPort1.Write(send, 0, 1);
         }
 
         private void timer1_Tick(object sender, EventArgs e)

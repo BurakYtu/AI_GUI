@@ -73,6 +73,16 @@ namespace Leila_GUI {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap add___Kopyala {
+            get {
+                object obj = ResourceManager.GetObject("add___Kopyala", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap ai {
             get {
                 object obj = ResourceManager.GetObject("ai", resourceCulture);
@@ -146,6 +156,16 @@ namespace Leila_GUI {
         internal static System.Drawing.Bitmap subt {
             get {
                 object obj = ResourceManager.GetObject("subt", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap subt___Kopyala {
+            get {
+                object obj = ResourceManager.GetObject("subt___Kopyala", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

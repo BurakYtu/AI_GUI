@@ -121,6 +121,9 @@
   <data name="add" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>icon\add.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="add___Kopyala" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>icon\add - kopyala.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="ai" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>icon\ai.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -144,6 +147,9 @@
   </data>
   <data name="subt" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>icon\subt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="subt___Kopyala" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>icon\subt - kopyala.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="test" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>icon\test.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>

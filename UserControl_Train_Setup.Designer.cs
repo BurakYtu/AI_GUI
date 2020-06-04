@@ -66,7 +66,7 @@
             this.btn_add_relax.FlatAppearance.MouseDownBackColor = System.Drawing.Color.White;
             this.btn_add_relax.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
             this.btn_add_relax.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_add_relax.Location = new System.Drawing.Point(169, 94);
+            this.btn_add_relax.Location = new System.Drawing.Point(130, 100);
             this.btn_add_relax.Margin = new System.Windows.Forms.Padding(0);
             this.btn_add_relax.Name = "btn_add_relax";
             this.btn_add_relax.Size = new System.Drawing.Size(50, 50);
@@ -77,7 +77,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(204, 72);
+            this.label1.Location = new System.Drawing.Point(165, 78);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(46, 13);
             this.label1.TabIndex = 1;
@@ -86,7 +86,7 @@
             // richTextBox_mission
             // 
             this.richTextBox_mission.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.richTextBox_mission.Location = new System.Drawing.Point(450, 72);
+            this.richTextBox_mission.Location = new System.Drawing.Point(411, 78);
             this.richTextBox_mission.Name = "richTextBox_mission";
             this.richTextBox_mission.ReadOnly = true;
             this.richTextBox_mission.Size = new System.Drawing.Size(188, 253);
@@ -104,7 +104,7 @@
             this.btn_sub_relax.FlatAppearance.MouseDownBackColor = System.Drawing.Color.White;
             this.btn_sub_relax.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
             this.btn_sub_relax.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_sub_relax.Location = new System.Drawing.Point(235, 94);
+            this.btn_sub_relax.Location = new System.Drawing.Point(196, 100);
             this.btn_sub_relax.Margin = new System.Windows.Forms.Padding(0);
             this.btn_sub_relax.Name = "btn_sub_relax";
             this.btn_sub_relax.Size = new System.Drawing.Size(50, 50);
@@ -118,7 +118,7 @@
             this.btn_relax.FlatAppearance.BorderSize = 0;
             this.btn_relax.FlatAppearance.MouseOverBackColor = System.Drawing.Color.PaleTurquoise;
             this.btn_relax.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_relax.Location = new System.Drawing.Point(169, 154);
+            this.btn_relax.Location = new System.Drawing.Point(130, 160);
             this.btn_relax.Margin = new System.Windows.Forms.Padding(0);
             this.btn_relax.Name = "btn_relax";
             this.btn_relax.Size = new System.Drawing.Size(116, 38);
@@ -138,7 +138,7 @@
             this.btn_add_right.FlatAppearance.MouseDownBackColor = System.Drawing.Color.White;
             this.btn_add_right.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
             this.btn_add_right.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_add_right.Location = new System.Drawing.Point(309, 94);
+            this.btn_add_right.Location = new System.Drawing.Point(270, 100);
             this.btn_add_right.Margin = new System.Windows.Forms.Padding(0);
             this.btn_add_right.Name = "btn_add_right";
             this.btn_add_right.Size = new System.Drawing.Size(50, 50);
@@ -152,7 +152,7 @@
             this.btn_right.FlatAppearance.BorderSize = 0;
             this.btn_right.FlatAppearance.MouseOverBackColor = System.Drawing.Color.PaleTurquoise;
             this.btn_right.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_right.Location = new System.Drawing.Point(309, 154);
+            this.btn_right.Location = new System.Drawing.Point(270, 160);
             this.btn_right.Margin = new System.Windows.Forms.Padding(0);
             this.btn_right.Name = "btn_right";
             this.btn_right.Size = new System.Drawing.Size(116, 38);
@@ -172,7 +172,7 @@
             this.btn_sub_right.FlatAppearance.MouseDownBackColor = System.Drawing.Color.White;
             this.btn_sub_right.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
             this.btn_sub_right.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_sub_right.Location = new System.Drawing.Point(375, 94);
+            this.btn_sub_right.Location = new System.Drawing.Point(336, 100);
             this.btn_sub_right.Margin = new System.Windows.Forms.Padding(0);
             this.btn_sub_right.Name = "btn_sub_right";
             this.btn_sub_right.Size = new System.Drawing.Size(50, 50);
@@ -183,7 +183,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(351, 72);
+            this.label2.Location = new System.Drawing.Point(312, 78);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(32, 13);
             this.label2.TabIndex = 1;
@@ -200,7 +200,7 @@
             this.btn_add_left.FlatAppearance.MouseDownBackColor = System.Drawing.Color.White;
             this.btn_add_left.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
             this.btn_add_left.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_add_left.Location = new System.Drawing.Point(169, 227);
+            this.btn_add_left.Location = new System.Drawing.Point(130, 233);
             this.btn_add_left.Margin = new System.Windows.Forms.Padding(0);
             this.btn_add_left.Name = "btn_add_left";
             this.btn_add_left.Size = new System.Drawing.Size(50, 50);
@@ -214,7 +214,7 @@
             this.btn_left.FlatAppearance.BorderSize = 0;
             this.btn_left.FlatAppearance.MouseOverBackColor = System.Drawing.Color.PaleTurquoise;
             this.btn_left.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_left.Location = new System.Drawing.Point(169, 287);
+            this.btn_left.Location = new System.Drawing.Point(130, 293);
             this.btn_left.Margin = new System.Windows.Forms.Padding(0);
             this.btn_left.Name = "btn_left";
             this.btn_left.Size = new System.Drawing.Size(116, 38);
@@ -234,7 +234,7 @@
             this.btn_sub_left.FlatAppearance.MouseDownBackColor = System.Drawing.Color.White;
             this.btn_sub_left.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
             this.btn_sub_left.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_sub_left.Location = new System.Drawing.Point(235, 227);
+            this.btn_sub_left.Location = new System.Drawing.Point(196, 233);
             this.btn_sub_left.Margin = new System.Windows.Forms.Padding(0);
             this.btn_sub_left.Name = "btn_sub_left";
             this.btn_sub_left.Size = new System.Drawing.Size(50, 50);
@@ -245,7 +245,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(217, 205);
+            this.label3.Location = new System.Drawing.Point(178, 211);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(25, 13);
             this.label3.TabIndex = 1;
@@ -262,7 +262,7 @@
             this.btn_add_not.FlatAppearance.MouseDownBackColor = System.Drawing.Color.White;
             this.btn_add_not.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
             this.btn_add_not.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_add_not.Location = new System.Drawing.Point(309, 227);
+            this.btn_add_not.Location = new System.Drawing.Point(270, 233);
             this.btn_add_not.Margin = new System.Windows.Forms.Padding(0);
             this.btn_add_not.Name = "btn_add_not";
             this.btn_add_not.Size = new System.Drawing.Size(50, 50);
@@ -276,7 +276,7 @@
             this.btn_not.FlatAppearance.BorderSize = 0;
             this.btn_not.FlatAppearance.MouseOverBackColor = System.Drawing.Color.PaleTurquoise;
             this.btn_not.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_not.Location = new System.Drawing.Point(309, 287);
+            this.btn_not.Location = new System.Drawing.Point(270, 293);
             this.btn_not.Margin = new System.Windows.Forms.Padding(0);
             this.btn_not.Name = "btn_not";
             this.btn_not.Size = new System.Drawing.Size(116, 38);
@@ -296,7 +296,7 @@
             this.btn_sub_not.FlatAppearance.MouseDownBackColor = System.Drawing.Color.White;
             this.btn_sub_not.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
             this.btn_sub_not.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_sub_not.Location = new System.Drawing.Point(375, 227);
+            this.btn_sub_not.Location = new System.Drawing.Point(336, 233);
             this.btn_sub_not.Margin = new System.Windows.Forms.Padding(0);
             this.btn_sub_not.Name = "btn_sub_not";
             this.btn_sub_not.Size = new System.Drawing.Size(50, 50);
@@ -307,7 +307,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(345, 205);
+            this.label4.Location = new System.Drawing.Point(306, 211);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(44, 13);
             this.label4.TabIndex = 1;
@@ -319,7 +319,7 @@
             this.btn_save.FlatAppearance.BorderSize = 0;
             this.btn_save.FlatAppearance.MouseOverBackColor = System.Drawing.Color.PaleTurquoise;
             this.btn_save.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_save.Location = new System.Drawing.Point(169, 342);
+            this.btn_save.Location = new System.Drawing.Point(130, 348);
             this.btn_save.Margin = new System.Windows.Forms.Padding(0);
             this.btn_save.Name = "btn_save";
             this.btn_save.Size = new System.Drawing.Size(56, 38);
@@ -334,7 +334,7 @@
             this.btn_start.FlatAppearance.BorderSize = 0;
             this.btn_start.FlatAppearance.MouseOverBackColor = System.Drawing.Color.PaleTurquoise;
             this.btn_start.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_start.Location = new System.Drawing.Point(450, 342);
+            this.btn_start.Location = new System.Drawing.Point(411, 348);
             this.btn_start.Margin = new System.Windows.Forms.Padding(0);
             this.btn_start.Name = "btn_start";
             this.btn_start.Size = new System.Drawing.Size(188, 38);
@@ -349,7 +349,7 @@
             this.btn_deletelast.FlatAppearance.BorderSize = 0;
             this.btn_deletelast.FlatAppearance.MouseOverBackColor = System.Drawing.Color.PaleTurquoise;
             this.btn_deletelast.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_deletelast.Location = new System.Drawing.Point(325, 342);
+            this.btn_deletelast.Location = new System.Drawing.Point(286, 348);
             this.btn_deletelast.Margin = new System.Windows.Forms.Padding(0);
             this.btn_deletelast.Name = "btn_deletelast";
             this.btn_deletelast.Size = new System.Drawing.Size(100, 38);
@@ -364,7 +364,7 @@
             this.btn_delete_all.FlatAppearance.BorderSize = 0;
             this.btn_delete_all.FlatAppearance.MouseOverBackColor = System.Drawing.Color.PaleTurquoise;
             this.btn_delete_all.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_delete_all.Location = new System.Drawing.Point(225, 342);
+            this.btn_delete_all.Location = new System.Drawing.Point(186, 348);
             this.btn_delete_all.Margin = new System.Windows.Forms.Padding(0);
             this.btn_delete_all.Name = "btn_delete_all";
             this.btn_delete_all.Size = new System.Drawing.Size(100, 38);
@@ -377,7 +377,7 @@
             // 
             this.rb_airplane.AutoSize = true;
             this.rb_airplane.Checked = true;
-            this.rb_airplane.Location = new System.Drawing.Point(660, 72);
+            this.rb_airplane.Location = new System.Drawing.Point(621, 78);
             this.rb_airplane.Name = "rb_airplane";
             this.rb_airplane.Size = new System.Drawing.Size(67, 17);
             this.rb_airplane.TabIndex = 3;
@@ -388,7 +388,7 @@
             // rb_horizon
             // 
             this.rb_horizon.AutoSize = true;
-            this.rb_horizon.Location = new System.Drawing.Point(660, 95);
+            this.rb_horizon.Location = new System.Drawing.Point(621, 101);
             this.rb_horizon.Name = "rb_horizon";
             this.rb_horizon.Size = new System.Drawing.Size(100, 17);
             this.rb_horizon.TabIndex = 3;
