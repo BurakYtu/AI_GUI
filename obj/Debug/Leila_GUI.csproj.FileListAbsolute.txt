@@ -70,3 +70,27 @@ D:\Burak Güzel\Works\C#\Github\AI_GUI_UDP\obj\Debug\Leila_GUI.csproj.GenerateRe
 D:\Burak Güzel\Works\C#\Github\AI_GUI_UDP\obj\Debug\Leila_GUI.csproj.CopyComplete
 D:\Burak Güzel\Works\C#\Github\AI_GUI_UDP\obj\Debug\Leila_GUI.exe
 D:\Burak Güzel\Works\C#\Github\AI_GUI_UDP\obj\Debug\Leila_GUI.pdb
+C:\Users\saidb\Desktop\AI_GUI_UDP-master\AI_GUI_UDP-master\bin\Debug\Leila_GUI.exe.config
+C:\Users\saidb\Desktop\AI_GUI_UDP-master\AI_GUI_UDP-master\bin\Debug\Leila_GUI.exe
+C:\Users\saidb\Desktop\AI_GUI_UDP-master\AI_GUI_UDP-master\bin\Debug\Leila_GUI.pdb
+C:\Users\saidb\Desktop\AI_GUI_UDP-master\AI_GUI_UDP-master\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\saidb\Desktop\AI_GUI_UDP-master\AI_GUI_UDP-master\bin\Debug\Google.Protobuf.dll
+C:\Users\saidb\Desktop\AI_GUI_UDP-master\AI_GUI_UDP-master\bin\Debug\MySql.Data.dll
+C:\Users\saidb\Desktop\AI_GUI_UDP-master\AI_GUI_UDP-master\bin\Debug\Renci.SshNet.dll
+C:\Users\saidb\Desktop\AI_GUI_UDP-master\AI_GUI_UDP-master\bin\Debug\Google.Protobuf.xml
+C:\Users\saidb\Desktop\AI_GUI_UDP-master\AI_GUI_UDP-master\bin\Debug\MySql.Data.xml
+C:\Users\saidb\Desktop\AI_GUI_UDP-master\AI_GUI_UDP-master\bin\Debug\Renci.SshNet.xml
+C:\Users\saidb\Desktop\AI_GUI_UDP-master\AI_GUI_UDP-master\obj\Debug\Leila_GUI.csprojAssemblyReference.cache
+C:\Users\saidb\Desktop\AI_GUI_UDP-master\AI_GUI_UDP-master\obj\Debug\Leila_GUI.Form1.resources
+C:\Users\saidb\Desktop\AI_GUI_UDP-master\AI_GUI_UDP-master\obj\Debug\Leila_GUI.Properties.Resources.resources
+C:\Users\saidb\Desktop\AI_GUI_UDP-master\AI_GUI_UDP-master\obj\Debug\Leila_GUI.ResourceIcons.resources
+C:\Users\saidb\Desktop\AI_GUI_UDP-master\AI_GUI_UDP-master\obj\Debug\Leila_GUI.UserControl_Main.resources
+C:\Users\saidb\Desktop\AI_GUI_UDP-master\AI_GUI_UDP-master\obj\Debug\Leila_GUI.UserControl_Test.resources
+C:\Users\saidb\Desktop\AI_GUI_UDP-master\AI_GUI_UDP-master\obj\Debug\Leila_GUI.UserControl_Train.resources
+C:\Users\saidb\Desktop\AI_GUI_UDP-master\AI_GUI_UDP-master\obj\Debug\Leila_GUI.UserControl_Train_Setup.resources
+C:\Users\saidb\Desktop\AI_GUI_UDP-master\AI_GUI_UDP-master\obj\Debug\Leila_GUI.csproj.GenerateResource.cache
+C:\Users\saidb\Desktop\AI_GUI_UDP-master\AI_GUI_UDP-master\obj\Debug\Leila_GUI.csproj.CoreCompileInputs.cache
+C:\Users\saidb\Desktop\AI_GUI_UDP-master\AI_GUI_UDP-master\obj\Debug\Leila_GUI.csproj.CopyComplete
+C:\Users\saidb\Desktop\AI_GUI_UDP-master\AI_GUI_UDP-master\obj\Debug\Leila_GUI.exe
+C:\Users\saidb\Desktop\AI_GUI_UDP-master\AI_GUI_UDP-master\obj\Debug\Leila_GUI.pdb
+C:\Users\saidb\Desktop\AI_GUI_UDP-master\AI_GUI_UDP-master\bin\Debug\SimpleTCP.dll
